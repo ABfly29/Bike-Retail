@@ -65,22 +65,13 @@ GROUP BY s.staff_id, s.first_name, s.last_name
 ORDER BY managed_orders DESC;
 ```
 
-## How to Use This Project
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/your-username/bike-store-database.git
-   ```
-2. Import the SQL file into **PostgreSQL**.
-3. Run the queries in a PostgreSQL client like **pgAdmin** or **DBeaver**.
-4. Modify and explore additional queries for practice.
-
 ## Technologies Used
 - **PostgreSQL** for database management.
 - **SQL** for querying the data.
 - **GitHub** for version control.
 
 ## Author
-[Your Name]
+Arunesh Bose
 
 ## License
 This project is open-source under the [MIT License](LICENSE).
